@@ -128,7 +128,7 @@ const Footer = () => {
 
         {/* Copyright */}
         <div className="border-t border-white/20 pt-6 text-center text-white/60">
-          <p>&copy; {new Date().getFullYear()} Acengeers Inc. All rights reserved.</p>
+          <p>&copy; {new Date().getFullYear()} Bakal Digital. All rights reserved.</p>
           <p className="text-sm mt-2">
             Design & Development by{' '}
             <a
