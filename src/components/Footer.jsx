@@ -129,17 +129,6 @@ const Footer = () => {
         {/* Copyright */}
         <div className="border-t border-white/20 pt-6 text-center text-white/60">
           <p>&copy; {new Date().getFullYear()} Bakal Digital. All rights reserved.</p>
-          <p className="text-sm mt-2">
-            Design & Development by{' '}
-            <a
-              href="https://bakaldigital-gucndofee-bakaltechs-projects.vercel.app/"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="text-white/80 hover:text-white transition underline underline-offset-2"
-            >
-              Bakal Digital
-            </a>
-          </p>
         </div>
       </div>
     </footer>
