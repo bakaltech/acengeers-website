@@ -132,7 +132,7 @@ const Footer = () => {
           <p className="text-sm mt-2">
             Design & Development by{' '}
             <a
-              href="https://bakaltech.github.io/bakal-digital/"
+              href="https://bakaldigital-gucndofee-bakaltechs-projects.vercel.app/"
               target="_blank"
               rel="noopener noreferrer"
               className="text-white/80 hover:text-white transition underline underline-offset-2"
